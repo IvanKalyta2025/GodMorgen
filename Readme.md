@@ -26,6 +26,19 @@ Data/EmployeeDatabase.cs
 
 Models/Employee.cs
 
+START Employee Class
+
+    property Name  (text)
+    property Position  (text)
+    property MeetingTime  (optional text)
+
+    WHEN creating a new Employee (constructor):
+        SET Name = given name
+        SET Position = given position
+        SET MeetingTime = given meeting time (can be empty or null)
+
+END Employee Class
+
 Services/CoffeeService.cs
 
 Services/EmployeeService.cs
