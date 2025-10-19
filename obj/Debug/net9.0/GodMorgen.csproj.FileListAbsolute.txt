@@ -30,3 +30,4 @@
 /Users/ivan/Desktop/GodMorgen/obj/Debug/net9.0/GodMorgen.pdb
 /Users/ivan/Desktop/GodMorgen/obj/Debug/net9.0/GodMorgen.genruntimeconfig.cache
 /Users/ivan/Desktop/GodMorgen/obj/Debug/net9.0/ref/GodMorgen.dll
+/Users/ivan/Desktop/GodMorgen/obj/Debug/net9.0/GodMorgen.sourcelink.json

@@ -19,6 +19,8 @@ Write Your name:
         Enter name
 
 Controllers/GreetingController.cs
+string rawName
+string name = (rawName ?? string.Empty).Trim();
 
 Data/EmployeeDatabase.cs
 

@@ -1,6 +1,7 @@
 using System;
+using GodMorgen.Controllers;
 
 Console.WriteLine("Your name:");
 string? name = Console.ReadLine();
 
-Console.WriteLine($"Hello {name}");
+GreetingController.Run(name);
