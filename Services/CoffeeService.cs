@@ -11,7 +11,7 @@ namespace GodMorgen.Services
         {
             int hour = now.Hour;
 
-            if (hour < 11) return "How about a cappuccino? ☕";
+            if (hour < 11) return "How about a cappuccino?";
             if (hour < 15) return "Americano to keep you focused?";
             if (hour < 19) return "Maybe a flat white?";
             return "It’s late — maybe decaf or tea?";

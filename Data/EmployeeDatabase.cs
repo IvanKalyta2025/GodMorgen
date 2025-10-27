@@ -11,7 +11,7 @@ namespace GodMorgen.Data
 [
         new Employee("Joakim", "Manager", "10:00"),
         new Employee("Ivan", "Developer", "09:30"),
-        new Employee("Jesper", "Designer", null),
+        new Employee("Lars", "Designer", null),
         new Employee("Patrick", "HR", "11:15"),
         new Employee("Desiree", "Intern", "13:00")
 ];
